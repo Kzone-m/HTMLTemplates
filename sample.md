@@ -1,3 +1,1 @@
-\begin{equation}
-  x^2 - 6x + 1 = 0
-\end{equation}
+<img src="https://latex.codecogs.com/gif.latex?\int_a^bf(x)dx" />
