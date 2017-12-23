@@ -20,7 +20,9 @@ https://nodejs.org/ja/
 (3) ソースのダウンロードとbuild toolの構築  
 管理者権限@Git Bash(右クリック)  
 $ git clone https://github.com/hiko2msp/play_with_parrot_mambo.git  
-$ npm install --global --production windows-build-tools  
+$ cd play_with_parrot_mambo  
+$ npm install --global --production windows-build-tools
+$ npm install  
 $ npm install git clone https://github.com/hiko2msp/DroneJS.git  
 $ npm install bluetooth-hci-socket  
 $ mv DroneJS node_modules/dronejs  
