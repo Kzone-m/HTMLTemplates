@@ -80,3 +80,4 @@ $ source deactivate py3.5
 $ node find.js
 $ node macSample.js
 
+https://community.parrot.com/t5/Mambo-Knowledge-Base/Update-Parrot-Mambo-Software/ta-p/153647
