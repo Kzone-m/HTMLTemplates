@@ -10,6 +10,18 @@
 
 参照記事:
 
+DeepTrader
+    https://github.com/deependersingla/deep_trader/tree/master/tensor-reinforcement
+    	main
+        	https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/dqn_model.py
+    	generate data
+    		https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/train_stock.py
+    	helper1
+        	https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/episodic_data.py
+    	helper2
+        	https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/supervised_helper.py
+
+
 これから強化学習を勉強する人のための「強化学習アルゴリズム・マップ」と、実装例まとめ
 https://qiita.com/sugulu/items/3c7d6cbe600d455e853b
 
