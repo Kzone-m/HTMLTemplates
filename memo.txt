@@ -9,67 +9,68 @@
 
 
 参照記事:
-
-DeepTrader
-    https://github.com/deependersingla/deep_trader/tree/master/tensor-reinforcement
-    	main
-        	https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/dqn_model.py
-    	generate data
-    		https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/train_stock.py
-    	helper1
-        	https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/episodic_data.py
-    	helper2
-        	https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/supervised_helper.py
-
-
-これから強化学習を勉強する人のための「強化学習アルゴリズム・マップ」と、実装例まとめ
-https://qiita.com/sugulu/items/3c7d6cbe600d455e853b
+Main
+    DeepTrader
+    	https://github.com/deependersingla/deep_trader/tree/master/tensor-reinforcement
+    		main
+        		https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/dqn_model.py
+    		generate data
+    			https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/train_stock.py
+    		helper1
+        		https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/episodic_data.py
+    		helper2
+        		https://github.com/deependersingla/deep_trader/blob/master/tensor-reinforcement/supervised_helper.py
 
 
-AIで株をやる！～株の売り買いを深層強化学習で予想 // Speaker Deck
-https://speakerdeck.com/jisedai/aidezhu-woyaru-zhu-falsemai-rimai-iwoshen-ceng-qiang-hua-xue-xi-deyu-xiang
+    これから強化学習を勉強する人のための「強化学習アルゴリズム・マップ」と、実装例まとめ
+	https://qiita.com/sugulu/items/3c7d6cbe600d455e853b
 
 
-これさえ読めばすぐに理解できる強化学習の導入と実践
-https://deepage.net/machine_learning/2017/08/10/reinforcement-learning.html
+    AIで株をやる！～株の売り買いを深層強化学習で予想 // Speaker Deck
+	https://speakerdeck.com/jisedai/aidezhu-woyaru-zhu-falsemai-rimai-iwoshen-ceng-qiang-hua-xue-xi-deyu-xiang
 
 
-Kerasで多変量LSTM
-https://qiita.com/tizuo/items/b9af70e8cdc7fb69397f
+    これさえ読めばすぐに理解できる強化学習の導入と実践
+	https://deepage.net/machine_learning/2017/08/10/reinforcement-learning.html
 
 
-TensorFlow(LSTM)で株価予想 〜 株予想その１ 〜
-https://qiita.com/tsunaki/items/a5f3f975a31dc45fc9c9
+    Kerasで多変量LSTM
+	https://qiita.com/tizuo/items/b9af70e8cdc7fb69397f
 
 
-LSTMを超える期待の新星、QRNN
-https://qiita.com/icoxfog417/items/d77912e10a7c60ae680e
+    TensorFlow(LSTM)で株価予想 〜 株予想その１ 〜
+	https://qiita.com/tsunaki/items/a5f3f975a31dc45fc9c9
+
+
+    LSTMを超える期待の新星、QRNN
+	https://qiita.com/icoxfog417/items/d77912e10a7c60ae680e
 
 
 
 
-Kerasによる畳み込みニューラルネットワークの実装
-http://aidiary.hatenablog.com/entry/20161120/1479640534
+Other
+    Kerasによる畳み込みニューラルネットワークの実装
+	http://aidiary.hatenablog.com/entry/20161120/1479640534
 
 
-Kerasを用いたディープラーニング（LSTM）による株価予測
-http://www.buildinsider.net/small/deeplearningnext/stockprediction
+    Kerasを用いたディープラーニング（LSTM）による株価予測
+	http://www.buildinsider.net/small/deeplearningnext/stockprediction
 
 
-DeepAge
-https://deepage.net/deep_learning/2017/05/23/recurrent-neural-networks.html#quasi-recurrent-neural-network
+    DeepAge
+	https://deepage.net/deep_learning/2017/05/23/recurrent-neural-networks.html#quasi-recurrent-neural-network
 
 
-強化学習で銘柄を選んでみた
-http://www.stockdog.work/entry/2017/02/25/053439
+    強化学習で銘柄を選んでみた
+	http://www.stockdog.work/entry/2017/02/25/053439
 
 
-入力データの構造に着目した畳み込みニューラルネットとリカレントニューラルネット
-http://s0sem0y.hatenablog.com/entry/2017/07/04/121523
+    入力データの構造に着目した畳み込みニューラルネットとリカレントニューラルネット
+	http://s0sem0y.hatenablog.com/entry/2017/07/04/121523
 
 
-LSTMネットワークの概要
-https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca#lstmネットワーク
+    LSTMネットワークの概要
+	https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca#lstmネットワーク
 
-KerasでRNN(LSTM)を試してみる
-https://qiita.com/sasayabaku/items/b7872a3b8acc7d6261bf
+    KerasでRNN(LSTM)を試してみる
+	https://qiita.com/sasayabaku/items/b7872a3b8acc7d6261bf
