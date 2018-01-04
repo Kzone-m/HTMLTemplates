@@ -74,3 +74,6 @@ Other
 
     KerasでRNN(LSTM)を試してみる
 	https://qiita.com/sasayabaku/items/b7872a3b8acc7d6261bf
+
+Memo
+    https://www.dropbox.com/sh/wjlx9zx9ifuzp28/AAB8-di5a72WdkGQB93x3pLEa?dl=0
