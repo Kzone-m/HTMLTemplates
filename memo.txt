@@ -77,3 +77,15 @@ Other
 
 Memo
     https://www.dropbox.com/sh/wjlx9zx9ifuzp28/AAB8-di5a72WdkGQB93x3pLEa?dl=0
+
+http://h-sao.com/blog/2017/04/10/how-to-install-tensorflow-gpu-on-windows/
+
+http://tecsingularity.com/cuda/cudnn64/
+
+https://devtalk.nvidia.com/default/topic/1024550/download-and-install-cuda-8-0-instead-of-cuda-9-0/
+
+https://developer.nvidia.com/cuda-toolkit-archive
+
+https://devtalk.nvidia.com/default/topic/1026950/uninstall-cuda-toolkit-v9-on-windows-7/
+
+http://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html#uninstall-cuda-software
