@@ -68,6 +68,10 @@ Main
 
     強化学習入門 Part2 - TensorflowとKerasとOpenAI GymでPolicy Gradientを実装してみよう！
     	http://blog.brainpad.co.jp/entry/2017/09/08/140000
+	
+
+　　DQNをKerasとTensorFlowとOpenAI Gymで実装する
+    	http://blog.brainpad.co.jp/entry/2017/09/08/140000
 
 
 Other
@@ -94,11 +98,18 @@ Other
     LSTMネットワークの概要
 	https://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca#lstmネットワーク
 
+
     KerasでRNN(LSTM)を試してみる
 	https://qiita.com/sasayabaku/items/b7872a3b8acc7d6261bf
 
+
     KerasでModelとParameterをLoad/Saveする方法
     	https://qiita.com/supersaiakujin/items/b9c9da9497c2163d5a74
+	
+
+　　Pythonでローソク足チャートの表示（matplotlib編）
+  	https://qiita.com/toyolab/items/1b5d11b5d376bd542022
+
 
 Memo
     https://www.dropbox.com/sh/wjlx9zx9ifuzp28/AAB8-di5a72WdkGQB93x3pLEa?dl=0
