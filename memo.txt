@@ -44,8 +44,26 @@ Main
 
     LSTMを超える期待の新星、QRNN
 	https://qiita.com/icoxfog417/items/d77912e10a7c60ae680e
+	
+	
+    株の売り買いを深層強化学習
+    	https://medium.com/music-and-technology/株の売り買いを深層強化学習-c5c2611a3dff
 
 
+    AIで株をやる！～株の売り買いを深層強化学習で予測～（GMO）
+        https://recruit.gmo.jp/engineer/jisedai/blog/dqn_market_impact_stock_trading/
+	https://speakerdeck.com/jisedai/aidezhu-woyaru-zhu-falsemai-rimai-iwoshen-ceng-qiang-hua-xue-xi-deyu-xiang
+
+
+    Deep Q-LearningでFXしてみた
+        https://recruit.gmo.jp/engineer/jisedai/blog/deep-q-learning/
+	
+
+    CartPoleでQ学習（Q-learning）を実装・解説
+        http://neuro-educator.com/rl1/
+
+		CartPole Code @ github
+			https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
 
 
 Other
